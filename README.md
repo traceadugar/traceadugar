@@ -42,7 +42,7 @@ A headless RHEL lab paired with an AI-guided ticket workflow that carries enviro
 
 **Understand → inspect → change → verify → document.**
 
-I use Claude Code, ChatGPT, and Codex for development and learning. I make their role visible, review the results, and keep evidence close to the claims. Aquarium's case study includes an optimization that was rejected after independent AI review; that decision is part of the engineering story too.
+I use Claude Code, ChatGPT, and Codex for development and learning. I make their role visible, review the results, and keep evidence close to the claims.
 
 | Area | Tools and practices used in my work |
 | --- | --- |
